@@ -2,8 +2,8 @@
 ## Часть 1
 ### Ссылка на коллаб для 1 части задания-* https://colab.research.google.com/drive/1O039qWJhQQzcikuRNy4WBOfh3M70WTzJ?authuser=2#scrollTo=IsQ33PGc435z
 ### Проверка качества чтений из fastQC:
-![alt](./images/FASTqc(1).png)  
-![image](https://user-images.githubusercontent.com/60805733/142776385-9d5c4216-6283-468f-9622-ac1eb94a5b9c.png)  
+![alt](./images/статистика.png)  
+![alt](./images/fastqc(2).png)  
 ![image](https://user-images.githubusercontent.com/60805733/142776392-b85c6c14-fe13-4f48-be6e-edde19a727b2.png)  
 ![image](https://user-images.githubusercontent.com/60805733/142776399-529eb5f7-c2de-4830-9b3b-dfb4bdf5523c.png)  
 ![image](https://user-images.githubusercontent.com/60805733/142776411-a7a90224-7d31-4d85-8d1f-66c6afb5d872.png)  
