@@ -4,13 +4,13 @@
 ### Проверка качества чтений из fastQC:
 ![alt](./images/статистика.png)  
 ![alt](./images/fastqc(2).png)  
-![image](https://user-images.githubusercontent.com/60805733/142776392-b85c6c14-fe13-4f48-be6e-edde19a727b2.png)  
+![alt](./images/mean_quility.png)   
 ![alt](./images/FASTqc(1).png)   
 ![alt](./images/FASTqc.png)  
-![image](https://user-images.githubusercontent.com/60805733/142776415-668765df-9d25-47c0-8ac1-cab95c8999c5.png)  
+![alt](./images/per_base.png) 
 ![alt](./images/fastqc(3).png)  
 ### Итоговая статистика
-![image](https://user-images.githubusercontent.com/60805733/142776458-f388e537-633f-4e17-bf85-0fc809f3e379.png)  
+![alt](./images/check.png) 
 ### Уникально откартированные чтения для всех образцов:  
 ![alt](./images/подсчет_уникальных_чтений.png)  
 ### Смотрим сколько чтений не удалось приписать ни одному гену:
@@ -19,13 +19,17 @@
 * Итого, общее число чтений, соответствующих хотя бы одному гену равно: 17825380 – 1332692 – 735108 = 15757580 Для каждого образца приводим эту статистику в отчете на Github 
 * ![alt](./images/подсчет.png)
 ### С помощью данный, приведенных выше, можно посчитать количество чтений, соответствующих хотя бы одному гену 
-![image](https://user-images.githubusercontent.com/60805733/142816386-b3d787a5-7bdc-4744-8ec0-2bfacd4a5886.png)  
+![alt](./images/общ.png)
+![alt](./images/общее_число.png)
 ### Объединяем файлы с прочтениями в один - all_counts (столбцы - образцы, при чем c1, c2, c3 - контрольные образцы; r1, r2, r3 - перепрограммированные образцы)  
-![image](https://user-images.githubusercontent.com/60805733/142817878-94b29c87-916e-4cea-bcea-0e599d5fef7c.png)
+![alt](./images/таблица.png)
 ## Часть 2
 ### Ссылка на GoogleCola(part 2: DESeq):* https://colab.research.google.com/drive/174aQET9h9qfX1d2BlBC1_sDz0-FJ09kn?usp=sharing
 ### plotMA
-
+![alt](./images/plotMA.png)
 ### HeatMap
-
+![alt](./images/heatmap.png)
 ### Графики со значениями "Normalized counts" в двух группах образцов
+![alt](./images/g1.png)
+![alt](./images/g2.png)
+![alt](./images/g3.png)
