@@ -1,6 +1,6 @@
 # hse21_hw3  
 ## Часть 1
-### Ссылка на коллаб для 1 части задания-* https://colab.research.google.com/drive/1O039qWJhQQzcikuRNy4WBOfh3M70WTzJ?authuser=2#scrollTo=IsQ33PGc435z
+### Ссылка на коллаб для 1 части задания-* https://colab.research.google.com/drive/1O039qWJhQQzcikuRNy4WBOfh3M70WTzJ?usp=sharing
 ### Проверка качества чтений из fastQC:
 ![alt](./images/статистика.png)  
 ![alt](./images/fastqc(2).png)  
@@ -24,7 +24,7 @@
 ### Объединяем файлы с прочтениями в один - all_counts (столбцы - образцы, при чем c1, c2, c3 - контрольные образцы; r1, r2, r3 - перепрограммированные образцы)  
 ![alt](./images/таблица.png)
 ## Часть 2
-### Ссылка на GoogleCola(part 2: DESeq):* https://colab.research.google.com/drive/1DelEq0-QNd4EU5ppEeVxbgv9ND8ZBPqH#scrollTo=CG_waM78c0qa
+### Ссылка на GoogleCola(part 2: DESeq):* https://colab.research.google.com/drive/1DelEq0-QNd4EU5ppEeVxbgv9ND8ZBPqH?usp=sharing
 ### plotMA
 ![alt](./images/plotMA.png)
 ### HeatMap
