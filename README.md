@@ -24,7 +24,7 @@
 ### Объединяем файлы с прочтениями в один - all_counts (столбцы - образцы, при чем c1, c2, c3 - контрольные образцы; r1, r2, r3 - перепрограммированные образцы)  
 ![alt](./images/таблица.png)
 ## Часть 2
-### Ссылка на GoogleCola(part 2: DESeq):* https://colab.research.google.com/drive/174aQET9h9qfX1d2BlBC1_sDz0-FJ09kn?usp=sharing
+### Ссылка на GoogleCola(part 2: DESeq):* https://colab.research.google.com/drive/1TVg0t2IbLQYq8_1QJJ2yHEpgPjRtF5h7#scrollTo=rut9W1vgWdvM
 ### plotMA
 ![alt](./images/plotMA.png)
 ### HeatMap
